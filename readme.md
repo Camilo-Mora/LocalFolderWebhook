@@ -1,4 +1,4 @@
-﻿  # Local webhook
+# Local webhook
  
 Convert local folder into a repository of data that can be transfered via the web from any site that uses webhooks. 
 
