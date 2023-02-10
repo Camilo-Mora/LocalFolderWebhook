@@ -41,11 +41,14 @@ Designed by Camilo Mora and developed by Mohammed Ibrahim
 
 6. Click on Browse  button, and select the folder you would like to forward the notifications to as .csv
 
-7. Now copy the webhook, which you can now use in any webpage that accepts wedhooks. That webpage can now trasnfer that via this webhook to your local file.
+7. Now copy the webhook, which you can now use in any webpage that accepts wedhooks. That webpage can now trasnfer data via this webhook to your local folder.
  
  <img src="https://github.com/Camilo-Mora/LocalFolderWebhook/blob/main/Images/Webhook.png" width=50% >
 
 
 ## Important note
-Do **not** delete the .env file near the exe. It holds the settings for the app. Also, don't delete ngrok.exe 
-The files that are transmited should not include special characters as that is used as the file name, and Windows do not allow special characters.
+Do **not** delete the .env file near the exe. It holds the settings for the app. 
+
+Also, don't delete ngrok.exe 
+
+The files that are transmited should not include special characters as that is used as the file name, and Windows do not accepts special characters.
