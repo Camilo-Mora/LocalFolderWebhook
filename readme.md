@@ -7,8 +7,11 @@
 
  1. Create Ngrok account from [here](https://dashboard.ngrok.com/signup)
  2. An email will be sent to you with verification link to verify your account
- 3. Navigate to your dashboard to get auth token (https://dashboard.ngrok.com/get-started/your-authtoken
- 4. Copy your authentication token as we will need it later![enter image description here](https://i.imgur.com/3gT6ooJ.png)
+ 3. Navigate to your dashboard to get auth token 
+ <img src="https://github.com/Camilo-Mora/LocalFolderWebhook/blob/main/Images/NGrokToken.png" width=50% >
+ 
+
+ 4. Copy your authentication token as we will need it later![enter image description here](https://github.com/Camilo-Mora/LocalFolderWebhook/blob/main/Images/InsertToken.png)
 
 
 ## Running the app
